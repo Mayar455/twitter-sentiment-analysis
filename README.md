@@ -1,1 +1,5 @@
-# twitter-sentiment-analysis
+# twitter-sentiment-analysis (NLP)
+Twitter is one of the popular sources with a relatively large amount of data. To perform the sentiment analysis, certain supervised machine learning methods (algorithms) were used to obtain precise results.
+Machine Learning (ML) plays a very important role here. The Sentiment Analysis process under ML helps the system understand the sentiment of a particular statement made. The system is built using several ML algorithms that can understand the nature of the sensitivity or a set of same things.
+Therefore, it can be automated to facilitate this process.
+ML methods outweighed knowledge and dictionary-based methods in determining polarization. The polarity here is a semantic orientation that lies between two extremes, 0 and 1 or positive and negative. It is planned to extract data from Twitter, the social network where sentiment analysis will be carried out. This data is recorded in the data frame. Then some cleaning and pre-processing steps are performed on it so that the appropriate information is used.
